@@ -1,0 +1,61 @@
+body {
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.common {
+    background-color: rgb(48, 47, 47);
+    position: absolute;
+}
+.header{
+    border: 5px solid black;
+    top: 7px;
+    left: 5px;
+    right: 5px;
+    height: 115px;
+    background-image: url(https://i.pinimg.com/736x/35/75/01/35750160ae88ca7e0ae8c23bd071a606.jpg);
+    color: black;
+    
+}
+.middle {
+    top: 160px;
+    left: 5px;
+    right: 5px;
+    height: 500px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+
+}
+.bottom {
+    border: 2px solid black;
+    top: 800px ;
+    left: 5px;
+    right: 5px;
+    height: 255px;
+    font-size: 15px;
+    
+}
+
+.video{
+    font-weight: bolder;
+    top: 1100px;
+    left: 5px;
+    right: 5px;
+    height: 400px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
+.chart{
+    border: 2px solid black;
+    font-weight: bolder;
+    top: 1550px ;
+    left: 5px;
+    right: 5px;
+    height: 680px;
+    text-align: center;
+    
+}
